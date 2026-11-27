@@ -1,0 +1,11 @@
+{
+  "product": "OmniFlow Standalone",
+  "version": "9.2.1",
+  "channel": "stable",
+  "releaseDate": "2026-11-27",
+  "changelog": [
+    "OTA Remote Test v9.2.1"
+  ],
+  "patchUrl": "https://raw.githubusercontent.com/cirrus2026-dev/omniflow-ota-releases/main/patches/omniflow-patch-v9.2.1.zip",
+  "sha256": "f6ca2a331e4690a8967605fe2ab25f0da66e9fbb46aaaef31f2f307351d32500"
+}
