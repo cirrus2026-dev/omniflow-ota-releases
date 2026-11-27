@@ -4,8 +4,8 @@
   "channel": "stable",
   "releaseDate": "2026-11-27",
   "changelog": [
-    "OTA Remote Test v9.2.1"
+    "Default OTA Manifest URL & Remote Update v9.2.1"
   ],
   "patchUrl": "https://raw.githubusercontent.com/cirrus2026-dev/omniflow-ota-releases/main/patches/omniflow-patch-v9.2.1.zip",
-  "sha256": "f6ca2a331e4690a8967605fe2ab25f0da66e9fbb46aaaef31f2f307351d32500"
+  "sha256": "4e082810c8b8be3b9da153ab28427d45791c96ee0eb351ef46f6433f0e1ffa3b"
 }
